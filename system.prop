@@ -7,3 +7,7 @@ ro.qc.sdk.audio.fluencetype=fluence
 
 # Display
 ro.sf.lcd_density=320
+
+# Set Mir CAF platform
+ro.build.qti_bsp.abi=1
+
